@@ -1,0 +1,9 @@
+
+h1 {
+  border: 10px;
+  border-right: 10px;
+  background-color: aqua;
+  font-style: italic;
+  font-size: small;
+  width: 60px;
+}
